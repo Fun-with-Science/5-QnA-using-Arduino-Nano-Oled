@@ -45,7 +45,7 @@ void loop() {
       displayQuestion("Akkal_bari_ya_bhas", "A) Akkal", "B) bhas");
       break;
     case 3:
-      displayQuestion("Object_you_get_hurt?", "A) chappal;", "B) Belan");
+      displayQuestion("Object_you_get_Beat?", "A) chappal;", "B) Belan");
       break;
     case 4:
       displayQuestion("who_you_love", "A) family", "B) family");
